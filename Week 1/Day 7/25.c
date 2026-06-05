@@ -12,3 +12,4 @@ int main() {
     printf("Factorial = %d", fact(n));
     return 0;
 }
+   

@@ -12,3 +12,4 @@ int main() {
     printf("Sum of digits = %d", sumDigits(n));
     return 0;
 }
+  
