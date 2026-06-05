@@ -16,7 +16,7 @@ int main(){
     }
 
     while(temp2 != 0){
-        temp1 = temp2 % 10;
+        temp1 = temp2 % 10;   
         sum += (int)round(pow(temp1, count));
         temp2 = temp2/10;
     }

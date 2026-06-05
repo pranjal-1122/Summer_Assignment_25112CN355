@@ -13,5 +13,5 @@ int main(){
     }
 
     printf("%dth term of Fibonacci Series is: %d", num,  c);
-    return 0;
+    return 0;  
 }

@@ -17,7 +17,7 @@ int main(){
         temp2 = i;
 
         while(temp1 != 0){
-            temp1 = temp1 / 10;
+            temp1 = temp1 / 10;   
             count++;
         }
 
