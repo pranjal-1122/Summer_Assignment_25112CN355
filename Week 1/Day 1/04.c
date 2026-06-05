@@ -13,4 +13,5 @@ int main(){
     }
 
     printf("total digits in %d is %d", num, count);
+    
 }
