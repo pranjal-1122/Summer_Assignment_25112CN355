@@ -17,5 +17,5 @@ int main(){
         printf("%d IS NOT A PERFECT NUMBER", num);
     }
 
-    return 0;
+    return 0;   
 }

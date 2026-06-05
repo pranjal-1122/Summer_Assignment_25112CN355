@@ -18,7 +18,7 @@ int main(){
         sum += fact;
         temp = temp/10;
     }
-
+   
     if(num == sum){
         printf("%d IS A STRONG NUMBER", num);
     }

@@ -17,7 +17,7 @@ int main(){
                 }
 
             }
-
+   
             if(count == 0){
                 if(i > primeFactor){
                     primeFactor = i;
