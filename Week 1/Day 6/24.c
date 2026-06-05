@@ -13,3 +13,4 @@ int main() {
     printf("%d^%d = %lld", x, n, result);
     return 0;
 }
+    
