@@ -17,8 +17,11 @@ int main(){
         printf("The number is palindrome");
     }
     else{
-        printf("The number is NOT palindrome");
+        printf("The number is NOT palindromee");
     }
 
     return 0;
+
+
+
 }
