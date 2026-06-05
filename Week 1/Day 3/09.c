@@ -19,5 +19,5 @@ int main(){
         printf("Number is NOT Prime");
     }
     
-    return 0;
+    return 0;  
 }

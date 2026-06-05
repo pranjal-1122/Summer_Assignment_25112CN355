@@ -14,4 +14,5 @@ int main(){
     }
 
     printf("LCM of %d and %d is %d", num1, num2, lcm);
+     
 }

@@ -13,5 +13,5 @@ int main() {
 
     printf("GCD of %d and %d is %d\n", a, b, gcd);
 
-    return 0;
+    return 0;  
 }
